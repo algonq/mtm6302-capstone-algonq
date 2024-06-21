@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Light gray background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    margin: 0;
+    color: #444; /* Slightly darker gray text */
+}
+
+.container {
+    width: 90%;
+    max-width: 600px;
+    padding: 20px;
+    border: 1px solid #ccc; /* Light gray border */
+    border-radius: 10px;
+    background-color: #fff; /* White background */
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.1); /* Slightly stronger shadow */
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+#answers button {
+    display: block;
+    margin: 10px 0;
+    padding: 14px; /* Increased padding slightly */
+    width: 100%;
+    background-color: #007bff; /* Blue button */
+    color: #fff; /* White text */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Smooth hover transition */
+}
+
+#answers button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+#submit-answer {
+    margin-top: 12px; /* Increased margin slightly */
+    padding: 14px; /* Increased padding for button */
+    width: 100%;
+    background-color: #28a745; /* Green button */
+    color: #fff; /* White text */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Smooth hover transition */
+}
+
+#submit-answer:hover {
+    background-color: #218838; /* Darker green on hover */
+}
+
+#reset-score, #restart-quiz {
+    margin-top: 12px; /* Increased margin slightly */
+    padding: 14px; /* Increased padding for buttons */
+    width: 100%;
+    background-color: #dc3545; /* Red button */
+    color: #fff; /* White text */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Smooth hover transition */
+}
+
+#reset-score:hover, #restart-quiz:hover {
+    background-color: #c82333; /* Darker red on hover */
+}
