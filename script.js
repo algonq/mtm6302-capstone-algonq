@@ -14,6 +14,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const restartQuizButton = document.getElementById('restart-quiz');
     const currentQuestionElement = document.getElementById('current-question');
     const totalQuestionsElement = document.getElementById('total-questions');
+    const navLinks = document.querySelectorAll('nav a');
+    const pages = document.querySelectorAll('.page');
+    const contactForm = document.getElementById('contact-form');
 
     let questions = [];
     let currentQuestionIndex = 0;
@@ -26,6 +29,17 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     updateScoreDisplay();
+
+    navLinks.forEach(link => {
+        link.addEventListener('click', (e) => {
+            e.preventDefault();
+            const targetId = link.getAttribute('href').substring(1);
+            pages.forEach(page => page.classList.remove('active'));
+            document.getElementById(targetId).classList.add('active');
+            navLinks.forEach(l => l.classList.remove('active'));
+            link.classList.add('active');
+        });
+    });
 
     difficultyForm.addEventListener('submit', async (e) => {
         e.preventDefault();
@@ -133,5 +147,11 @@ document.addEventListener('DOMContentLoaded', () => {
         updateScoreDisplay();
         difficultyForm.classList.remove('hidden');
         finalScoreContainer.classList.add('hidden');
+    });
+
+    contactForm.addEventListener('submit', (e) => {
+        e.preventDefault();
+        alert('Thank you for your message! We will get back to you soon.');
+        contactForm.reset();
     });
 });

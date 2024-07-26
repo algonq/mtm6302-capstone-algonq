@@ -1,74 +1,110 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0; /* Light gray background */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; /* Full viewport height */
+    font-family: 'Poppins', sans-serif;
     margin: 0;
-    color: #444; /* Slightly darker gray text */
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f9f9f9;
+}
+
+nav {
+    background-color: #4CAF50;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    align-items: center;
+}
+
+nav .logo {
+    font-weight: 600;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin: 0 1em;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+nav ul li a.active {
+    text-decoration: underline;
 }
 
 .container {
-    width: 90%;
+    padding: 2em;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin: 2em auto;
     max-width: 600px;
-    padding: 20px;
-    border: 1px solid #ccc; /* Light gray border */
-    border-radius: 10px;
-    background-color: #fff; /* White background */
-    box-shadow: 0 0 12px rgba(0, 0, 0, 0.1); /* Slightly stronger shadow */
-    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    margin-top: 1em;
+}
+
+label, select, input, textarea, button {
+    display: block;
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+input, textarea, select {
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 0.5em 1em;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.page {
+    display: none;
+}
+
+.page.active {
+    display: block;
 }
 
 .hidden {
     display: none;
 }
 
-#answers button {
-    display: block;
-    margin: 10px 0;
-    padding: 14px; /* Increased padding slightly */
-    width: 100%;
-    background-color: #007bff; /* Blue button */
-    color: #fff; /* White text */
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s; /* Smooth hover transition */
+/* Colorful styles for different pages */
+#home {
+    background-color: #FFEB3B;
 }
 
-#answers button:hover {
-    background-color: #0056b3; /* Darker blue on hover */
+#about {
+    background-color: #FF9800;
+    color: white;
 }
 
-#submit-answer {
-    margin-top: 12px; /* Increased margin slightly */
-    padding: 14px; /* Increased padding for button */
-    width: 100%;
-    background-color: #28a745; /* Green button */
-    color: #fff; /* White text */
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s; /* Smooth hover transition */
-}
-
-#submit-answer:hover {
-    background-color: #218838; /* Darker green on hover */
-}
-
-#reset-score, #restart-quiz {
-    margin-top: 12px; /* Increased margin slightly */
-    padding: 14px; /* Increased padding for buttons */
-    width: 100%;
-    background-color: #dc3545; /* Red button */
-    color: #fff; /* White text */
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s; /* Smooth hover transition */
-}
-
-#reset-score:hover, #restart-quiz:hover {
-    background-color: #c82333; /* Darker red on hover */
+#contact {
+    background-color: #03A9F4;
+    color: white;
 }

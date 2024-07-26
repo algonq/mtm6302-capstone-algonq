@@ -1,23 +1,22 @@
-# MTM6302-capstone-algonq
+# MTM6302-capstone-algonq PART-2 
 NAME: JATIN KHANCHI
 
 STUDENT NUMBER: 90541117633
 
-Step 1: add a collaborator
-![Screenshot 2024-06-14 174723](https://github.com/algonq/mtm6302-capstone-algonq/assets/134572776/6ab83804-6034-42d1-b057-b48a57623d51)
+![Screenshot 2024-07-26 185153](https://github.com/user-attachments/assets/c796044e-7fdb-4be8-bc45-1a1653568233)
 
-Step 2: open gitbash and make a folder in it
-![Screenshot 2024-06-16 202718](https://github.com/algonq/mtm6302-capstone-algonq/assets/134572776/94bd9d8f-3d0d-42ae-8861-bf95a747dbf6)
+![Screenshot 2024-07-26 185159](https://github.com/user-attachments/assets/a60abb7e-cd5b-4da7-805d-26ef458835ac)
 
-Step 3: open the folder in bash
-![Screenshot 2024-06-21 173940](https://github.com/algonq/mtm6302-capstone-algonq/assets/134572776/651034b0-a8f1-4e83-8eb6-37985e66d6cd)
+![Screenshot 2024-07-26 185215](https://github.com/user-attachments/assets/f3cd3985-6118-472b-a88c-99d59f68f22e)
 
-Step 4: made file in vs code and added html, css and js
-![Screenshot 2024-06-21 174044](https://github.com/algonq/mtm6302-capstone-algonq/assets/134572776/d24d3f59-1053-413a-9d05-7cfe1d82d846)
+![Screenshot 2024-07-26 185206](https://github.com/user-attachments/assets/bfd3f7aa-ccc5-4083-8c20-16db35cf21b0)
 
-Step 5: made a repository named mtm6302-capstone-jaswinderr/ on github then add readme file and push the html, css and js on github 
-![Screenshot 2024-06-21 174250](https://github.com/algonq/mtm6302-capstone-algonq/assets/134572776/07b7d120-c257-4925-87cd-6c6e3083dbbf)
+![Screenshot 2024-07-26 185318](https://github.com/user-attachments/assets/e8fc1558-15a4-431a-8874-ad97851cce97)
 
-step 6: run the file
-![Screenshot 2024-06-21 174332](https://github.com/algonq/mtm6302-capstone-algonq/assets/134572776/52f80971-233e-45ec-8dff-b19301842e48)
+![Screenshot 2024-07-26 185325](https://github.com/user-attachments/assets/dd2c9d33-cb8d-4048-9996-d6672edf8005)
 
+![Screenshot 2024-07-26 181302](https://github.com/user-attachments/assets/5fa7e90a-1025-4963-9b2e-ad198f83212d)
+
+![Screenshot 2024-07-26 181324](https://github.com/user-attachments/assets/2219af56-cbd4-4532-8422-a354c244275d)
+
+![Screenshot 2024-07-26 181348](https://github.com/user-attachments/assets/df26376e-453f-414c-835f-6d5a35d6a4e5)
