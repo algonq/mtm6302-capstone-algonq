@@ -3,8 +3,7 @@ NAME: JATIN KHANCHI
 
 STUDENT NUMBER: 90541117633
 
-Step 1: add a collaborator
-![Screenshot 2024-06-14 174723](https://github.com/algonq/mtm6302-capstone-algonq/assets/134572776/6ab83804-6034-42d1-b057-b48a57623d51)
+![Screenshot 2024-07-26 182815](https://github.com/user-attachments/assets/4d9ea714-97d7-4297-bab9-32efaf5ef5fb)
 
 Step 2: open gitbash and make a folder in it
 ![Screenshot 2024-06-16 202718](https://github.com/algonq/mtm6302-capstone-algonq/assets/134572776/94bd9d8f-3d0d-42ae-8861-bf95a747dbf6)
