@@ -1,4 +1,5 @@
-# MTM6302-capstone-algonq
+# MTM6302-capstone-algonq part 3
+
 NAME: JATIN KHANCHI
 
 STUDENT NUMBER: 90541117633
