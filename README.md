@@ -3,21 +3,12 @@ NAME: JATIN KHANCHI
 
 STUDENT NUMBER: 90541117633
 
-Step 1: add a collaborator
-![Screenshot 2024-06-14 174723](https://github.com/algonq/mtm6302-capstone-algonq/assets/134572776/6ab83804-6034-42d1-b057-b48a57623d51)
+![Screenshot 2024-07-26 185215](https://github.com/user-attachments/assets/2bf927b9-9536-4c23-8b73-56f180baa53f)
 
-Step 2: open gitbash and make a folder in it
-![Screenshot 2024-06-16 202718](https://github.com/algonq/mtm6302-capstone-algonq/assets/134572776/94bd9d8f-3d0d-42ae-8861-bf95a747dbf6)
+![Screenshot 2024-07-26 185325](https://github.com/user-attachments/assets/56c4c572-4b6b-4543-a595-16e294dc3808)
 
-Step 3: open the folder in bash
-![Screenshot 2024-06-21 173940](https://github.com/algonq/mtm6302-capstone-algonq/assets/134572776/651034b0-a8f1-4e83-8eb6-37985e66d6cd)
+![Screenshot 2024-08-08 150659](https://github.com/user-attachments/assets/da5abfd8-2d97-4486-a384-28dff99677c1)
 
-Step 4: made file in vs code and added html, css and js
-![Screenshot 2024-06-21 174044](https://github.com/algonq/mtm6302-capstone-algonq/assets/134572776/d24d3f59-1053-413a-9d05-7cfe1d82d846)
+![Screenshot 2024-08-08 150711](https://github.com/user-attachments/assets/26ac66d5-caf4-42d2-a1d8-448071b7ceb0)
 
-Step 5: made a repository named mtm6302-capstone-jaswinderr/ on github then add readme file and push the html, css and js on github 
-![Screenshot 2024-06-21 174250](https://github.com/algonq/mtm6302-capstone-algonq/assets/134572776/07b7d120-c257-4925-87cd-6c6e3083dbbf)
-
-step 6: run the file
-![Screenshot 2024-06-21 174332](https://github.com/algonq/mtm6302-capstone-algonq/assets/134572776/52f80971-233e-45ec-8dff-b19301842e48)
-
+![Screenshot 2024-08-08 150718](https://github.com/user-attachments/assets/286f0d59-80eb-47b1-a655-6786fc598917)
